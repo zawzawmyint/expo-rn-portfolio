@@ -1,0 +1,337 @@
+{
+  "social": [
+    {
+      "icon": "github",
+      "link": "https://github.com/zawzawmyint"
+    },
+    {
+      "icon": "email",
+      "link": "mailto:cuzawzawmyint@gmail.com"
+    },
+    {
+      "icon": "whatapp",
+      "link": "https://wa.me/+959978205997"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/zaw-zaw-myint-29745a199/"
+    },
+    {
+      "icon": "resume",
+      "link": "/Zaw_Zaw_Myint_Resume.pdf"
+    }
+  ],
+  "workexperiences": [
+    {
+      "position": "Frontend Developer",
+      "company": "Soubu",
+      "company_link": "https://sou-bu.co.jp/",
+      "companyImage": "tumoco.png",
+      "project": "CMS Project, Internal Portal Project",
+      "skills": "Reactjs, Material UI, Redux, Amazon Rekognition, Custom Labels(AI/ML), Nextjs App Router, Shadcn/ui, Tailwindcss, Typescript, NextAuth",
+      "period": "May 2023 - June 2025",
+      "tasks": [
+        "Develop a content management system (CMS) project using React.js, Redux, and Material-UI (MUI).",
+        "Leverage Redux for streamlined state management.",
+        "Utilize Material-UI for implementing a polished design language.",
+        "Ensure the CMS project aligns with goals and provides a seamless, enhanced user experience.",
+        "Integrate Amazon Rekognition's custom label and self-trained models into the CMS project.",
+        "Fine-tune image analysis for improved accuracy and relevance.",
+        "Elevate the React.js and Material-UI interface with cutting-edge capabilities for better user experience.",
+        "Developed the company’s internal portal website using Next.js app router, TypeScript, ShadCN/UI, Tailwind CSS,Context API, React Hook Form, and NextAuth.",
+        "Implemented features such as announcements, spaces, employee chat, activities, and libraries, ensuring a modern and user-friendly interface.",
+        "Collaborated with cross-functional teams to align projects with company goals and deliver high-quality solutions."
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": " MWC (Myanmar Web Creator)",
+      "company_link": "https://www.myanmarwebcreator.com/",
+      "companyImage": "mwc.png",
+      "project": "Ecommerce Project",
+      "skills": "Nextjs, TypeScript, Zustand, Material UI, Tailwind, NextAuth",
+      "period": "Oct 2022 - Jan 2023",
+      "tasks": [
+        "Spearheaded a cosmetic e-commerce project as a Frontend Developer.",
+        "Employed Next.js, Material-UI, Tailwind CSS, and Zustand for state management.",
+        "Directed the development of an engaging and responsive online shopping experience.",
+        "Leveraged Next.js for efficient server-side rendering and seamless navigation.",
+        "Utilized the design flexibility of Tailwind CSS for creating visually appealing designs.",
+        "Applied Zustand for managing state effectively and ensuring smooth user interactions.",
+        "Ensured the platform was dynamic and responsive, delivering a high-quality user experience.",
+        "Reinforced adaptability to diverse tech stacks through this project.",
+        "Showcased commitment to delivering sophisticated solutions in the evolving web development landscape."
+      ]
+    },
+    {
+      "position": "Developer",
+      "company": " DAT(Dir-Ace-Technology)",
+      "company_link": "https://www.diracetechnology.com/",
+      "companyImage": "dat.png",
+      "project": "Zabbix Monitoring System",
+      "skills": "Golang, Zabbix",
+      "period": "Feb 2022 - Sep 2022",
+      "tasks": [
+        "Focus on working with the Zabbix monitoring system in my role.",
+        "Engage in periodic coding tasks that require studying Golang.",
+        "Schedule learning initiatives aligned with specific project needs.",
+        "Transition from Zabbix configurations to Golang studies for a dynamic role experience.",
+        "Adapt to diverse technical requirements by balancing monitoring setups and coding tasks.",
+        "Develop a holistic skill set to address both operational and coding demands.",
+        "Ensure versatility in contributing to infrastructure and project-specific needs.",
+        "Demonstrate commitment to adaptability and effective team contributions."
+      ]
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "MIT(Myanmar Information Technology)",
+      "company_link": "https://www.mit.com.mm/",
+      "companyImage": "mit.png",
+      "project": "Micro finance Project",
+      "skills": "Angular, Java, Bootstrap, Microsoft SQL Server, Azure, Agile Methodology",
+      "period": "Oct 2019 - April 2021",
+      "tasks": [
+        "Developed a sophisticated microfinance project during my tenure at MIT as a web developer.",
+        "Crafted a user-centric interface on the frontend using AngularJS and Bootstrap, ensuring a seamless user experience.",
+        "Implemented a robust backend architecture with Java and Microsoft SQL Server to ensure data integrity and security.",
+        "Embraced Agile methodologies to facilitate collaboration among cross-functional teams, promoting adaptability and efficient project delivery.",
+        "Integrated Azure for cloud services to enhance the project's scalability and performance.",
+        "Sharpened technical skills while fostering a commitment to delivering high-quality, innovative solutions.",
+        "Gained comprehensive experience in web development and project management.",
+        "Demonstrated a passion for staying at the forefront of technological advancements.",
+        "Eager to apply skills and knowledge to new challenges in web development."
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "icon": "AiOutlinePhone",
+      "text": "+66811069515",
+      "linkto": "tel:+66811069515"
+    },
+    {
+      "icon": "AiOutlineMail",
+      "text": "cuzawzawmyint@gmail.com",
+      "linkto": "mailto:cuzawzawmyint@gmail.com"
+    },
+    {
+      "icon": "HiOutlineCake",
+      "text": "April, 1997",
+      "linkto": "#"
+    },
+    {
+      "icon": "AiOutlineLinkedin",
+      "text": "https://www.linkedin.com/in/zaw-zaw-myint-29745a199/",
+      "linkto": "https://www.linkedin.com/in/zaw-zaw-myint-29745a199/"
+    },
+    {
+      "icon": "FiGithub",
+      "text": "https://github.com/zawzawmyint",
+      "linkto": "https://github.com/zawzawmyint"
+    },
+    {
+      "icon": "FaRegEye",
+      "text": "Resume ",
+      "linkto": "https://zawzawmyint.vercel.app/resume/Zaw_Zaw_Myint_Resume.pdf"
+    },
+    {
+      "icon": "CiLocationOn",
+      "text": "Bangkok, Thailand",
+      "linkto": "https://maps.app.goo.gl/RRQZocTePL8ScCC58"
+    }
+  ],
+  "skills": {
+    "languages": [
+      {
+        "image": "js.png",
+        "text": "Javascript",
+        "level": "Advanced"
+      },
+      {
+        "image": "typescript.png",
+        "text": "Typescript",
+        "level": "Basic"
+      },
+      {
+        "image": "java.png",
+        "text": "Java",
+        "level": "Basic"
+      },
+      {
+        "image": "python.png",
+        "text": "Python",
+        "level": "Basic"
+      }
+    ],
+    "developments": [
+      {
+        "image": "react.png",
+        "text": "Reactjs",
+        "level": "Advanced"
+      },
+      {
+        "image": "redux.png",
+        "text": "Redux Toolkit",
+        "level": "Intermediate"
+      },
+      {
+        "image": "nextjs.png",
+        "text": "Next.js 15",
+        "level": "Intermediate"
+      },
+      {
+        "image": "reactQuery.png",
+        "text": "React Query",
+        "level": "Intermediate"
+      },
+      {
+        "image": "tailwind.png",
+        "text": "Tailwindcss",
+        "level": "Intermediate"
+      },
+      {
+        "image": "mui.png",
+        "text": "Material-UI",
+        "level": "Intermediate"
+      },
+      {
+        "image": "shadcn.png",
+        "text": "Shadcn/ui",
+        "level": "Intermediate"
+      },
+      {
+        "image": "figma.png",
+        "text": "Figma",
+        "level": "Basic"
+      }
+    ],
+    "others": [
+      {
+        "image": "aws.png",
+        "text": "Amazon (S3, Rekognition) ",
+        "level": "Custom Labels (AI/ML)"
+      },
+      {
+        "image": "github.png",
+        "text": "Git/GitHub",
+        "level": "Intermediate"
+      },
+      {
+        "image": "agile.png",
+        "text": "Agile/Scrum",
+        "level": "Basic"
+      }
+    ]
+  },
+
+  "certifications": [
+    {
+      "icon": "LiaAwardSolid",
+      "text": "Professional Web Developer (Ei Maung-Fairway ) ",
+      "linkto": "https://www.linkedin.com/company/fairway-technology/about/"
+    },
+    {
+      "icon": "LiaAwardSolid",
+      "text": "A+ & Networking (Computer University , Monywa) ",
+      "linkto": "https://ucsmonywa.edu.mm/"
+    },
+    {
+      "icon": "LiaAwardSolid",
+      "text": "Essential skills for Business(Strategy First) ",
+      "linkto": "https://strategyfirst.edu.mm/"
+    }
+  ],
+  "communications": [
+    {
+      "icon": "icon",
+      "text": "English (Working Proficiency)",
+      "linkto": ""
+    },
+    {
+      "icon": "icon",
+      "text": "Burmese (Native Language)",
+      "linkto": ""
+    }
+  ],
+  "funs": [
+    {
+      "facts": "Crafted over ten lines of code in React , turning caffeine into components and state hooks",
+      "image": "/nice.png"
+    },
+    {
+      "facts": "Meticulous attention to design details, spent a day perfecting CSS for pixel alignment",
+      "image": "/amazing.png"
+    },
+    {
+      "facts": "Curated a React Rockstar playlist for peak coding performance",
+      "image": "/toilet.jpg"
+    }
+  ],
+  "educations": {
+    "course": "Bachelor of Computer Science(B.C.Sc)",
+    "place": "Computer University(Monywa, Myanmar)",
+    "period": "2013-2018"
+  },
+  "aboutme": "I am a results-oriented web developer with three years of experience in the ever-evolving landscape of web development. Over the past year, I've specialized in React.js, channeling my passion for crafting seamless and engaging user interfaces. My journey has equipped me with a robust skill set, encompassing the latest technologies and best practices. I thrive in dynamic environments, adapt quickly to challenges, and consistently deliver high-quality solutions. Eager to contribute my expertise and innovation to projects that push the boundaries of web development. ",
+  "career_objectives": [
+    "Leveraging three years of experience as a Front-End Developer, I aim to apply my in-depth knowledge of HTML, CSS, and JavaScript to create visually appealing and highly functional web applications",
+    " Recognized for my efficiency and smart working approach, I seek to seamlessly blend creativity with technical proficiency in order to deliver innovative and user-centric user interfaces. ",
+    "Eager to be part of a collaborative team where my adaptability and passion for cutting-edge technologies can contribute to the success of dynamic projects in the ever-evolving field of web development. "
+  ],
+  "projects": [
+    {
+      "name": "Online Courses",
+      "description": "Explore a dynamic platform for online learning with a wide range of courses tailored for front-end development, back-end development, and more. Our website offers a user-friendly interface and seamless navigation to enhance your learning experience. Start your journey today and unlock your potential in tech and beyond!",
+      "stacks": ["Nextjs14", "Zustand", "Typescript", "Shadcn/ui"],
+      "image": "online-courses.png",
+      "demo": "https://courses-zz-nextjs.vercel.app/",
+      "github": "https://github.com/zawzawmyint/online-courses-nextapp-typescript-zustand"
+    },
+    {
+      "name": "Shop",
+      "description": "Discover an elegant and user-friendly online shopping platform offering a seamless browsing experience. Find a variety of products curated for quality and style, all in one place. Shop with ease and enjoy a smooth, secure checkout process!",
+      "stacks": ["Nextjs", "Redux Toolkit", "Tailwind", "Farmer motion"],
+      "image": "shop.png",
+      "demo": "http://shop-zz-nextjs.vercel.app/",
+      "github": "https://github.com/zawzawmyint/shopping-next14-tailwind-shadcn"
+    },
+    {
+      "name": "Movies",
+      "description": "Dive into the world of movies with our sleek and intuitive platform for exploring and discovering films. Browse through a diverse collection of genres and find details about your favorite titles effortlessly. Start your cinematic journey with just a click!",
+      "stacks": ["Nextjs", "Shadcn/ui", "Tailwind", "Farmer motion"],
+      "image": "movies-nextjs.png",
+      "demo": "https://movies-zz-nextjs.vercel.app/",
+      "github": "https://github.com/zawzawmyint/movies-nextjs-shadcn-tailwind"
+    },
+    {
+      "name": "Todos",
+      "description": "Stay organized and boost your productivity with our simple and efficient to-do list app. Add, track, and manage your tasks with an intuitive interface designed to keep you focused. Take control of your day and accomplish more effortlessly!",
+      "stacks": ["Nextjs", "Typescript", "Shadcn/ui", "Tailwind", "Zustand"],
+      "image": "todos.png",
+      "demo": "https://todos-zz-nextjs.vercel.app/",
+      "github": "https://github.com/zawzawmyint/todo-nextapp-typescript"
+    },
+    {
+      "name": "Chat app",
+      "description": "Connect and communicate effortlessly with our real-time chat application. Enjoy a smooth and responsive chatting experience with a sleek interface and user-friendly features. Start meaningful conversations anytime, anywhere!",
+      "stacks": ["Reactjs", "Typescript", "Shadcn/ui", "Socket.io", "Peerjs"],
+      "image": "chat-app.png",
+      "demo": "https://chat-zz.vercel.app/",
+      "github": "https://github.com/zawzawmyint/chat-react"
+    },
+    {
+      "name": "Customer Service",
+      "description": "Enhance your support experience with our efficient customer service platform. Easily manage inquiries, provide timely responses, and keep your customers satisfied with a user-friendly interface. Streamline your customer service process today!",
+      "stacks": [
+        "Nextjs14",
+        "Typescript",
+        "Shadcn/ui",
+        "Tawk.to",
+        "Farmer motion"
+      ],
+      "image": "cus-service.png",
+      "demo": "https://customer-service-zz-nextjs.vercel.app/",
+      "github": "https://github.com/zawzawmyint/customer-service-app"
+    }
+  ]
+}
