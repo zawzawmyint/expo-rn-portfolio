@@ -36,6 +36,5 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 25,
     flexDirection: "column",
-    gap: 30,
   },
 });

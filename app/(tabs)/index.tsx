@@ -2,7 +2,7 @@ import Buttons from "@/components/buttons/Buttons";
 import Info from "@/components/home/Info";
 import Profile from "@/components/home/Profile";
 import MainSection from "@/components/MainSection";
-import { ScrollView, StyleSheet, View } from "react-native";
+import { ScrollView, StyleSheet, useColorScheme, View } from "react-native";
 
 export default function Index() {
   return (

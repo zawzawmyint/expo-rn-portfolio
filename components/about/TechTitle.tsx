@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
   techTitle: {
     fontSize: 20,
     fontWeight: "bold",
-    marginBottom: 10,
-    marginTop: 10,
+    marginBottom: 20,
+    marginTop: 20,
   },
 });

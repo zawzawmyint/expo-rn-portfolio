@@ -34,12 +34,14 @@ const styles = StyleSheet.create({
     fontSize: 32,
     fontWeight: "bold",
     textAlign: "center",
+    letterSpacing: 1,
   },
   description: {
     fontSize: 18,
     lineHeight: 24,
     fontWeight: "600",
     opacity: 0.5,
+    letterSpacing: 0.5,
   },
   buttonContainer: {
     flexDirection: "row",
